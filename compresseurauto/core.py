@@ -10,7 +10,7 @@ except ImportError:
 from PIL import Image
 import piexif
 
-from bulkresizer.constants import EXTS_JPEG, EXTS_IMAGE, QUALITY_LEVELS, RES_LEVELS
+from compresseurauto.constants import EXTS_JPEG, EXTS_IMAGE, QUALITY_LEVELS, RES_LEVELS
 
 def _load_exif(path):
     blank = {"0th": {}, "Exif": {}, "GPS": {}, "1st": {}}

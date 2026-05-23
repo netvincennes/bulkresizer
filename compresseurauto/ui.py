@@ -14,7 +14,7 @@ from kivy.clock           import Clock
 from kivy.metrics         import dp, sp
 from kivy.graphics        import Color, RoundedRectangle, Rectangle
 
-from bulkresizer.constants import (
+from compresseurauto.constants import (
     BG_DARK, BG_CARD, BG_THUMB, BG_HEADER,
     ACCENT, ACCENT2, SUCCESS, WARNING, DANGER, DONATION,
     TEXT_PRI, TEXT_SEC, TEXT_DIM,
@@ -22,8 +22,8 @@ from bulkresizer.constants import (
     QUALITY_LEVELS, QUALITY_KEYS, RES_LEVELS, RES_KEYS,
     T,
 )
-import bulkresizer.constants as _c
-from bulkresizer.core import (
+import compresseurauto.constants as _c
+from compresseurauto.core import (
     collect_images, process_image, preview_image,
     scan_folders, format_bytes,
 )

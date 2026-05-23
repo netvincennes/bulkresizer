@@ -11,8 +11,8 @@ from kivy.core.window import Window
 from kivy.uix.popup import Popup
 from kivy.uix.label import Label
 
-from bulkresizer.constants import BG_DARK, ICON_PATH, T, DANGER
-from bulkresizer.ui import MainScreen
+from compresseurauto.constants import BG_DARK, ICON_PATH, T, DANGER
+from compresseurauto.ui import MainScreen
 
 class ImageOptimizerApp(App):
     def build(self):

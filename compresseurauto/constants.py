@@ -18,7 +18,7 @@ EXTS_JPEG   = {".jpg", ".jpeg", ".JPG", ".JPEG"}
 EXTS_IMAGE  = {".jpg", ".jpeg", ".JPG", ".JPEG", ".png", ".PNG", ".webp", ".WEBP"}
 MAX_THUMBS  = 30
 CONTACT_EMAIL = "info@netvincennes.fr"
-ICON_PATH   = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "bulkresizer.png")
+ICON_PATH   = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "compresseurauto.png")
 
 # ─── Qualité (compression %) ──────────────────────────────────────────────
 QUALITY_LEVELS = {"high": 15, "medium": 30, "low": 45}  # compression %, OFF = None
