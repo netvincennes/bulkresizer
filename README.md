@@ -21,3 +21,7 @@ GNU General Public License v3.0 — voir [LICENSE](LICENSE)
 ## Publication
 
 Disponible sur [GitHub](https://github.com/netvincennes/compresseur-auto) et F-Droid.
+
+et sur https://netvincennes.fr/site/assistance/logiciels.php
+
+L'Espace informatique de Vincennes publie auusi des logiciels payants comme secguardian (VPN nolog, DNS, sauvegardes, sync, cleaner etc.) et secguardian-mobile qui compresse aussi les videos, gére les sync entre Android et pc windows mac ou linux,  et les sauvegardes locales ou sur notre serveur de sauvegardes confidentielles en Suisse.
