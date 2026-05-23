@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Buildozer
+*.apk
+*.aab
+.buildozer/
+.buildozer_apk/
+bin/
+.ndk/
+.sdk/
+
+# Kivy
+*.kv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*~
+AGENTS.md
