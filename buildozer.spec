@@ -24,7 +24,7 @@ android.use_set_trace = true
 android.copy_libs = true
 android.archs = arm64-v8a
 android.avoid_java_reflection = true
-android.strings =
+android.strings = <string name="app_name" translatable="false">Compresseur-Auto</string>
 android.app_lib =
 android.enable_import_scanner = true
 android.presep_lib =
