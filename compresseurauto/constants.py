@@ -31,7 +31,7 @@ RES_KEYS       = ["low", "medium", "high"]
 
 _TR = {
     "fr": {
-        "app_title":      "Compresseur-Auto",
+        "app_title":      "Compresseur-Automatique",
         "app_sub":        "Outil gratuit de réduction d'images",
         "folder":         "📁  Dossier source",
         "browse":         "Parcourir",
@@ -74,7 +74,7 @@ _TR = {
         "select":         "✔ Sélectionner",
         "cancel":         "Annuler",
         "report_title":   "Rapport de traitement",
-        "report_sub":     "Compresseur-Auto  •  Rapport de traitement",
+        "report_sub":     "Compresseur-Automatique  •  Rapport de traitement",
         "ok_images":      "✔  Images traitées",
         "errors":         "✖  Erreurs",
         "size_before":    "Taille avant",
@@ -125,7 +125,7 @@ _TR = {
         "sg_desktop_link": "https://secguardian.fr",
     },
     "en": {
-        "app_title":      "Compresseur-Auto",
+        "app_title":      "Compresseur-Automatique",
         "app_sub":        "Free image reduction tool",
         "folder":         "📁  Source folder",
         "browse":         "Browse",
@@ -168,7 +168,7 @@ _TR = {
         "select":         "✔ Select",
         "cancel":         "Cancel",
         "report_title":   "Processing Report",
-        "report_sub":     "Compresseur-Auto  •  Processing Report",
+        "report_sub":     "Compresseur-Automatique  •  Processing Report",
         "ok_images":      "✔  Images processed",
         "errors":         "✖  Errors",
         "size_before":    "Size before",

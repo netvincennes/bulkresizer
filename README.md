@@ -1,8 +1,6 @@
-# Compresseur-Auto
+# Compresseur-Automatique
 
-**Outil gratuit de réduction automatique d'images pour Android**
-
-Compresseur-Auto redimensionne et compresse automatiquement toutes les photos d'un dossier sélectionné, en un clic. Idéal pour libérer de l'espace ou préparer des images pour le web.
+Compresseur-Automatique redimensionne et compresse automatiquement toutes les photos d'un dossier sélectionné, en un clic. Idéal pour libérer de l'espace ou préparer des images pour le web.
 
 ## Fonctionnalités
 
